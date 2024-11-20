@@ -71,11 +71,3 @@ Learn To Build Projects Using JSP, JDBC, Servlets, Swing, Spring Boot, Hibernate
 - Project Name:
 Project 2: Event Management System
 
-- Created by: 
-Engineering.Org.In
-
-- Date Created:
-Last updated 11/2021
-
-- URL:
-https://www.udemy.com/course/build-real-world-java-projects-jsp-servlets-springboot/
